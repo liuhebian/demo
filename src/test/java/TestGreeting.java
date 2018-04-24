@@ -20,6 +20,7 @@ public class TestGreeting {
     @Test
     public void Test1() {
         try {
+            System.out.println("here is NG testing.");
             InvokeBrowser();
         } catch (MalformedURLException e) {
             e.printStackTrace();
