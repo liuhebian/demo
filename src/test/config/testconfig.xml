@@ -1,0 +1,9 @@
+<suite name="TestNG">
+    <test name="Test Annotation">
+        <classes>
+            <class name="TestGreeting">
+
+            </class>
+        </classes>
+    </test>
+</suite>
